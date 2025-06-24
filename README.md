@@ -28,13 +28,16 @@ This Java program reads integer numbers from the console, stores them in a `Link
 ## How to Compile and Run
 
 **1. Compile the program:**
-```bash
+```
 javac SortedLinkedList_Heller.java
+```
 
 **2. Run the compiled program in the cmd line:**
-```bash
+```
 java SortedLinkedList_Heller
+```
 
 **3. Generate JavaDoc Documentation:**
-```bash
+```
 javadoc SortedLinkedList_Heller.java
+```
